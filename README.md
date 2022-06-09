@@ -2,6 +2,7 @@
 My name is **Fin**. I work on Lexers and Parser, I'm currently in the process of building my own compiler.
 
 ![](https://github-readme-stats.vercel.app/api?username=finitecs&show_icons=true&include_all_commits=true&theme=tokyonight&border_radius=10)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=finitecs&layout=compact&theme=tokyonight&border_radius=10&langs_count=4)
 
 
