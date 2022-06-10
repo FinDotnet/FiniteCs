@@ -1,4 +1,5 @@
-### Hi there 👋
+# Welcome to my profile! 👋
+
 # About me
 - My name is **Fin**. I am a .Net Developer, I develope client side applications in C#. 
 
