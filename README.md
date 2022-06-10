@@ -1,22 +1,23 @@
 ### Hi there 👋
-My name is **Fin**. I work on Lexers and Parser, I'm currently in the process of building my own compiler.
+# About me
+- My name is **Fin**. I am a .Net Developer, I develope client side applications in C#. 
 
+- I am currently learning C#, CIL, and C++.
+
+- In my free time, I like to expand my knowlage on compilers, and compiler theories.
+
+- I am currently in the begining stages of developing a compiler for my own statically typed language, that if all goes well, will compile to CIL so it can be ran on the CLR.
+
+# Future plans
+- I do plan on eventually learning server sided things as I currently have no knowlage on this.
+
+# A bit about my GitHub
 ![](https://github-readme-stats.vercel.app/api?username=finitecs&show_icons=true&include_all_commits=true&theme=tokyonight&border_radius=10)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=finitecs&layout=compact&theme=tokyonight&border_radius=10&langs_count=4)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=finitecs&layout=compact&theme=tokyonight&border_radius=10&langs_count=10)
 
+# My Discord
+![https://discord.com/users/591299691375755266](https://discord.c99.nl/widget/theme-4/591299691375755266.png)
 
-<!--
-**FiniteCs/FiniteCs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Important
+All projects on here are for EDUCATIONAL PURPOSES. I am not responsible for how any individual(s) use my code for their own purpouses. All projects here are implicitly under the [MIT License](https://opensource.org/licenses/MIT) unless specified otherwise.
