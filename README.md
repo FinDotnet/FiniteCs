@@ -7,8 +7,6 @@
 
 - In my free time, I like to expand my knowlage on compilers, and compiler theories.
 
-- I am currently in the begining stages of developing a compiler for my own statically typed language, that if all goes well, will compile to CIL so it can be ran on the CLR.
-
 # Future plans
 - I do plan on eventually learning server sided things as I currently have no knowlage on this.
 
