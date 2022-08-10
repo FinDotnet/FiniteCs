@@ -5,7 +5,7 @@
 
 - I am currently learning C#, CIL, and C++.
 
-- In my free time, I like to expand my knowlage on compilers, and compiler theories.
+- In my free time, I like to expand my knowlage on compilers.
 
 # Future plans
 - I do plan on eventually learning server sided things as I currently have no knowlage on this.
