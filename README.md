@@ -14,9 +14,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=finitecs&show_icons=true&include_all_commits=true&theme=tokyonight&border_radius=10)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=finitecs&layout=compact&theme=tokyonight&border_radius=10&langs_count=10)
-
-# My Discord
-![https://discord.com/users/1096077036675662004](https://discord.c99.nl/widget/theme-4/1096077036675662004.png)
-
-# Important
-All projects on here are for EDUCATIONAL PURPOSES. I am not responsible for how any individual(s) use my code for their own purpouses. All projects here are implicitly under the [MIT License](https://opensource.org/licenses/MIT) unless specified otherwise.
